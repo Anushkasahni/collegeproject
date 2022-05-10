@@ -1,5 +1,8 @@
-.welcome-heading {
+.welcomeheading {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-shadow: 10rem;
+  font-size: x-large;
+  color: blueviolet;
 }
